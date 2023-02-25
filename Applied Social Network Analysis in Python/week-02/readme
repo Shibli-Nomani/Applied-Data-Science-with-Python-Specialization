@@ -1,1 +1,8 @@
 
+Applied Social Network Analysis in Python
+We have networkx libaries for edges and nodes analysis
+
+a. Undirectional
+b. Directional
+
+ visualizations of larger networks consider exploring some more fully featured graph visualization tools such as side escape, Gephi or Graphviz.
