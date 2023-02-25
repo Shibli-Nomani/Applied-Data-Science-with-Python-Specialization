@@ -1,4 +1,4 @@
-Applied Social Network Analysis in Python
+# --Applied Social Network Analysis in Python--
 
 
 Social Network Analysis (SNA) is a field of study concerned with the analysis of social structures using network and graph theories. It can be applied to study the relationships between individuals, groups, organizations, and even entire societies. In Python, there are several libraries and packages that can be used to perform SNA, including:
