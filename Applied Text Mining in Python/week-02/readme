@@ -1,4 +1,10 @@
 Applied Text Mining in Python
 Natural Language Processing
 
-1. Tokenization, Sentence Tokenization, Normalization(stemming, lemmatization)
+1.FreqDist, Word Tokenization, Sentence Tokenization, Normalization(stemming, lemmatization)
+2. PosTag: Parts of Speech Tagging, Parsing Ambiguity
+MD: modal auxiliary
+CD: numeral, cardinal
+DT: determiner
+POS: genitive marker ' 's
+
