@@ -1,1 +1,9 @@
 Applied Text Mining in Python
+Natural Language Processing
+
+Customer Sentiment Analysis
+1. Naive Bayes 
+2. Support Vector Machine
+
+1. Use of CountVectorization, tfidfVectorization, minimum frequency: min_df, n_grams(unigram, bigram, trigram)
+2. sorting based on smallest and largest features
